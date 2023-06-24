@@ -1,3 +1,4 @@
+r º.+ç
 
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
 https://www.overleaf.com/project/....
@@ -12,7 +13,7 @@ Project title:
 NLP using ANN
 
 Group Number:
-0
+2
 
 Group Members:
 12345678 Name A
