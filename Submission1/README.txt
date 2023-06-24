@@ -17,7 +17,7 @@ Group Number:
 
 Group Members:
 22273011 Name Salman Sadat Nur
-22273001 Name Sushana Islam
+22273001 Name Sushana Islam Mim
 19101155 Name Tamanna Sultana Tonu
 20101467 Name Labiba Ifrit jahin
 23341034 Name Golam Kibria Anim
