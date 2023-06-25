@@ -1,16 +1,16 @@
 r º.+ç
 
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/project/....
+https://www.overleaf.com/7643655551hcsqyftgjsyr
 
 Link to unlisted YouTube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1JWcqeN9NaPm8wSRqTISuMcvhB4nZiNt_1FJHuPldKto/edit?usp=sharing
 
 Project title:
-NLP using ANN
+Racist text detection using NLP :Pattern Recognition and Explainable AI
 
 Group Number:
 2
