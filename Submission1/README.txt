@@ -10,7 +10,8 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1JWcqeN9NaPm8wSRqTISuMcvhB4nZiNt_1FJHuPldKto/edit?usp=sharing
 
 Project title:
-Racist text detection using NLP :Pattern Recognition and Explainable AI
+Pattern Recognition and Explainable AI: Racist text detection using NLP
+
 
 Group Number:
 2
