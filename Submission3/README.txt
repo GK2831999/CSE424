@@ -5,7 +5,7 @@ https://youtube.com/.....
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF: 
-https://github.com/you/CSE123/blob/main/submission3/Concept%20Map.pdf
+https://github.com/GK2831999/CSE424/blob/main/Submission3/Consept_Map.pdf
 Native/original format: 
 https://www.edrawmax.com/online/share.html?code=e0e5a96c1d8e11ee8b580a951ba8b83d&fbclid=IwAR3IGHYmWyZNI8ZVOvyUR_kx6iEV6RtOCvrWQSxVFd3cTVfxaPGK7ocAov0
 
