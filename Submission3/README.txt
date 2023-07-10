@@ -28,7 +28,8 @@ https://docs.google.com/file/d/0B78A_rsP6RDSVjBTa1ZUSXBGYzA/edit?resourcekey=0-i
 
 
 Link to the book chapter:
-https://books.google.com/books...
+https://docs.google.com/file/d/0B78A_rsP6RDSVjBTa1ZUSXBGYzA/edit?resourcekey=0-ieDlJmoTUv2WllxQDQcY2Q
+
 
 
 
