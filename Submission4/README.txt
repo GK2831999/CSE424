@@ -1,6 +1,6 @@
 
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/project/....
+https://www.overleaf.com/read/dfszkdftyhrx
 
 Unlisted YouTube video:
 http://youtube....
@@ -14,7 +14,7 @@ Project title:
 Pattern Recognition and Explainable AI: Racist text detection using NLP
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/1i3_Frthaa1cEoy_E8dyCYrEVKN9CTqLICbTRzNMmAsU/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
 25 October 1999
