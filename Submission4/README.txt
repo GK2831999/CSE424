@@ -5,9 +5,6 @@ https://www.overleaf.com/read/dfszkdftyhrx
 Unlisted YouTube video:
 https://youtu.be/AYiXmZ9gURY
 
-Conference submitted paper / paper submission / login Link:
-https://easy....
-
 
 
 Project title:
@@ -16,17 +13,6 @@ Pattern Recognition and Explainable AI: Racist text detection using NLP
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1i3_Frthaa1cEoy_E8dyCYrEVKN9CTqLICbTRzNMmAsU/edit?usp=sharing
 
-Paper submission date (to workshop/conference):
-25 October 1999
-
-Paper submission ID: (received) from conference/workshop
-1341234
-
-Conference Name:
-2005 International Conference on Quantum Pattern Recognition for Natural Language Processing: Techniques and Practices
-
-Conference URL:
-http://confsite/...
 
 
 
