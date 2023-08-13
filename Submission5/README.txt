@@ -11,7 +11,7 @@ Project title:
 Pattern Recognition and Explainable AI: Racist text detection using NLP
 
 Paper presentation (anyone can view without login):
-https://docs.google.com/presentation/d/1i3_Frthaa1cEoy_E8dyCYrEVKN9CTqLICbTRzNMmAsU/edit?usp=sharing
+https://docs.google.com/presentation/d/1VqmyZYvAKBXkwRD0UYf-9-EYpKIJcgGblXprMyTcQP8/edit#slide=id.g267faf9088d_0_13
 
 
 
